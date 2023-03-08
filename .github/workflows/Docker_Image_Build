@@ -23,4 +23,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: JUNCHAEYEON/myrepo:latest
+          tags: junchaeyeon/myrepo:latest
